@@ -1,0 +1,32 @@
+<?php
+return[
+    'proverb'=>'Do not think profit, think conscience,
+            You need to know more than you need to know.
+            Excess Knowledge in the book,
+            I dont know, he said.',
+    'author'=>'Abay Kunanbayuly',
+    'title_naq'=>' The Proverb',
+    'books'=>'available Books',
+    'footer_about'=>'You can find us on social networks',
+    'footer_connect'=>'Connection types:',
+    'footer_des'=>'Designed by: ',
+    'creator'=>'Ayan Nurlanovich',
+    'favorite'=>'Your favorite books',
+    'subscribe'=>'Your subscribed books',
+    'add_f'=>'Add to Favorites',
+    'subs'=>"Subscribe to read the book",
+    'month'=>'month(Minutes)',
+    'rating'=>'Readers price: ',
+    'subscribebtn'=>'Subscribe',
+    'unsubscribebtn'=>'Unsubscribe',
+    'comment'=>'Comment',
+    'comments'=>'Comments: ',
+    'addcomment'=>'Add Comment',
+    'rate'=>'Please Rate',
+    'ratebtn'=>'Rate',
+    'gobtn'=>'Go',
+    'comm_author'=>'Comment author: ',
+    'balance'=>'Balance: ',
+    'upbalance'=>'Replenish balance',
+    'wordbalance'=>'How much do you want to replenish the balance:'
+];
